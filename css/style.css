@@ -10,6 +10,10 @@
 	background-color: white;
 }
 
+.servicos{
+	background-color: rgb(0,255,0);
+}
+
 .margin{
 	padding-top: 50px; /* margem interna */
 	padding-bottom: 10px;
